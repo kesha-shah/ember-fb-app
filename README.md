@@ -1,5 +1,11 @@
 # Ember-fb-app
 
+## Travis Build Status
+[![Build Status](https://travis-ci.org/kesha-shah/ember-fb-app.svg?branch=master)](https://travis-ci.org/kesha-shah/ember-fb-app)
+
+## Code Climate Status
+[![Code Climate](https://codeclimate.com/github/kesha-shah/ember-fb-app/badges/gpa.svg)](https://codeclimate.com/github/kesha-shah/ember-fb-app)
+
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
@@ -42,9 +48,6 @@ Make use of the many generators for code, try `ember help generate` for more det
 ### Deploying
 
 Specify what it takes to deploy your app.
-
-###Travis build status
-[![Build Status](https://travis-ci.org/kesha-shah/ember-fb-app.svg?branch=master)](https://travis-ci.org/kesha-shah/ember-fb-app)
 
 
 ## Further Reading / Useful Links
